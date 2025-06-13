@@ -35,11 +35,6 @@ atención escritos (WPP, Correo, Teams) para recibir los mismos.
   requeriremos que nos muestres en tiempo real la aplicación, su funcionamiento, su
   estructura y/o arquitectura.
 
-Ejecución
-En panaderia_ai/app ajecutar el comando
-
-flask --app app run --debug
-
 1. Arquitectura General
 2. Componentes Principales
    Frontend (Cliente)
@@ -74,3 +69,8 @@ Módulos clave:
     Bootstrap--------Estilos frontend
     Font Awesome-----Iconos
     ASSEMBLYAI------- Voz a texto
+
+Ejecución
+En panaderia_ai/app ajecutar el comando
+
+flask --app app run --debug
