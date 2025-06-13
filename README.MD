@@ -36,6 +36,8 @@ atención escritos (WPP, Correo, Teams) para recibir los mismos.
   estructura y/o arquitectura.
 
 Ejecución
+En panaderia_ai/app ajecutar el comando
+
 flask --app app run --debug
 
 1. Arquitectura General
@@ -43,19 +45,16 @@ flask --app app run --debug
    Frontend (Cliente)
    Tecnologías: HTML5, CSS3, JavaScript + Bootstrap 5
 
-   
-
 Características:
 
     Interfaz basada en componentes (botones, tarjetas)
 
-    Comunicación asíncrona con el backend 
+    Comunicación asíncrona con el backend
 
     Gestión de estados básica (grabando/en espera)
 
 Backend (Servidor)
-Tecnologías: Python + Flask 
-
+Tecnologías: Python + Flask
 
 Módulos clave:
 
