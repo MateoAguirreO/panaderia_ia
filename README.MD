@@ -43,22 +43,19 @@ flask --app app run --debug
    Frontend (Cliente)
    Tecnologías: HTML5, CSS3, JavaScript + Bootstrap 5
 
-   Patrón: MVC (Modelo-Vista-Controlador) implícito
+   
 
 Características:
 
     Interfaz basada en componentes (botones, tarjetas)
 
-    Comunicación asíncrona con el backend via Fetch API/XMLHttpRequest
+    Comunicación asíncrona con el backend 
 
     Gestión de estados básica (grabando/en espera)
 
 Backend (Servidor)
-Tecnologías: Python + Flask (microframework)
+Tecnologías: Python + Flask 
 
-    Patrón:
-
-Router-Controller (típico de Flask)
 
 Módulos clave:
 
